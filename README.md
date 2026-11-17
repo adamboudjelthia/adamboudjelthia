@@ -6,7 +6,11 @@ Me llamo Adam y tengo 18 años, estudiante del **de Desarrollo de Aplicaciones M
 ## Objetivos
  - Desarrollo de software.
  - Creación de páginas web.
- - Aprender nuevas tecnologias y mejorar mis habilidades💻🌐
+ - Aprender nuevas tecnologias y mejorar mis habilidades. 💻🌐
+
+## Stack Tecnológico (Tecnológias y herramientas):
+- **Lenguajes:** 
+
  
 ¡Bienvenido/a a mi GitHub! Aquí comparto mis proyectos y aprendizajes.
 
