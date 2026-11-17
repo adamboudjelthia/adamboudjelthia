@@ -1,9 +1,12 @@
 # ¡Hola! 👋
 
-Me llamo Adam y tengo 17 años.  
-Estoy estudiando el **CFGM de Sistemas Microinformáticos y Redes (SMR)** y realizando **prácticas como Técnico Informático**.  
+## Presentacion
+Me llamo Adam y tengo 18 años, estudiante del **de Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por eld desarrollo frontend y backend.  
 
-Mi objetivo es dedicarme al **desarrollo de software** y **creación de páginas web**. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en programación para crear proyectos útiles y creativos. 💻🌐
-
+## Objetivos
+ **-desarrollo de software** 
+ **-creación de páginas web**
+ **-Aprender nuevas tecnologias y mejorar mis habilidades**💻🌐
+ 
 ¡Bienvenido/a a mi GitHub! Aquí comparto mis proyectos y aprendizajes.
 
