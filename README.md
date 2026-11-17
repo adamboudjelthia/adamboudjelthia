@@ -9,7 +9,7 @@ Me llamo Adam y tengo 18 años, estudiante del **de Desarrollo de Aplicaciones M
  - Aprender nuevas tecnologias y mejorar mis habilidades. 💻🌐
 
 ## Stack Tecnológico (Tecnológias y herramientas):
-- **Lenguajes:** 
+- **Lenguajes:** ![Java](https://shields.io)
 
  
 ¡Bienvenido/a a mi GitHub! Aquí comparto mis proyectos y aprendizajes.
