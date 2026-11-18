@@ -19,11 +19,16 @@ Me llamo Adam y tengo 18 años, estudiante del **de Desarrollo de Aplicaciones M
 
 - **Base de datos**:
 
-   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white).
+   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Sistemes Operatius**:
 
-   ![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=microsoft). ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black).
+   ![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=microsoft) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- **Eines**:
+  
+   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+    
   
 
 
