@@ -15,7 +15,7 @@ Me llamo Adam y tengo 18 años, estudiante del **de Desarrollo de Aplicaciones M
 
 - **Desarrollo web**:
   
-   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-BootStrap-white?style=?style=for-the-badge&logo=bootstrap)
 
 - **Base de datos**:
 
