@@ -14,12 +14,16 @@ Me llamo Adam y tengo 18 años, estudiante del **de Desarrollo de Aplicaciones M
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 - **Desarrollo web**:
-- 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS)
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
 - **Base de datos**:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white).
+
+- **Sistemes Operatius**:
+
+![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=microsoft). ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black).
   
 
 
